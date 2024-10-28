@@ -67,29 +67,6 @@ Output:
 Vector elements: 10 20 30 
 After pop_back, last element: 20
 ```
-
-## Project Structure
-```
-.
-├── MyVector.hpp      # Header file containing the MyVector class template.
-├── main.cpp          # Example usage of MyVector, showcasing functionality.
-└── README.md         # Project documentation.
-```
-
-## Compilation Instructions
-To compile and run this project:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/MyVector.git
-   cd MyVector
-   ```
-
-2. **Compile**:
-   ```bash
-   g++ -std=c++11 main.cpp -o myvector
-   ```
-
 3. **Run**:
    ```bash
    ./myvector
